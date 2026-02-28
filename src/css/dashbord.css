@@ -1,0 +1,36 @@
+#dashbord{
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+}
+
+:root{
+    --color : rgba(255, 1, 213, 0.608);
+}
+.color{
+    color: var(--color);
+    letter-spacing: 10px;
+    margin-left: 15px;
+}
+.user{
+    padding-top: 20px;
+    margin-left: 10px;
+}
+#name{
+    color: green;
+    letter-spacing: 5px;
+    font-size: 25px;
+}
+#navbar{
+    background-color: rgb(224, 224, 200);
+}
+.bon{
+    color: red;
+   background:linear-gradient(to right,rgb(56, 56, 223),rgb(12, 83, 18),rgb(218, 7, 7));
+   padding:10px 100px;
+   border: none;
+   outline: none;
+   border-radius: 10px;
+   height: 50px;
+   font-size: 30px;
+}

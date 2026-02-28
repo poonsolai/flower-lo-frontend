@@ -1,0 +1,17 @@
+
+#signup{
+  background-image: url('./assets/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#signin{
+  background-image: url('./assets/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#forget{
+  background-image: url('./assets/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
