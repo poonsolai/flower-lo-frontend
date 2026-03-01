@@ -18,7 +18,7 @@ const Signin = ({setLoad, setForget}) => {
     //call one time
     useEffect( ()=>{
         setLoad(false);
-        callAuth();
+        // callAuth();
     },[]);
 
     //error show pannura variable
